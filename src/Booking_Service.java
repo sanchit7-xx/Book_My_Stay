@@ -6,7 +6,7 @@
  * Demonstrates safe room allocation using Queue, HashMap,
  * and Set to prevent double booking.
  *
- * @author ShristyShree
+ * @author sanchitkumar
  * @version 6.1
  */
 
